@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Luckyjoseph
+- 👋 Hi, I am Lucky Joseph Hassan
 - 👀 I am an Android developer
-- 🌱 I am currently building Andoid application with Kotlin
+- 🌱 I am currently building Android application with Kotlin
 - 💞️ I’m looking to collaborate on any available Android project on Kotlin
 - 📫 How to reach me @luckyjoseph1996@gmail.com
 
